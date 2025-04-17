@@ -5,7 +5,7 @@ from datetime import datetime
 import json
 import os
 from database.db_utils import DatabaseManager
-from utils.payment import PaymentManager
+#from utils.payment import PaymentManager
 from components.ui import (
     display_menu, display_cart, display_order_status,
     display_order_history, display_analytics
