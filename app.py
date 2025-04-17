@@ -124,7 +124,7 @@ def student_dashboard():
     
     # Initialize database and payment managers
     db = DatabaseManager()
-    payment = PaymentManager()
+    #payment = PaymentManager()
     
     # Sidebar
     with st.sidebar:
